@@ -1,0 +1,103 @@
+*{
+    max-width: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+.fundo{
+    background-image: url(Img/fundo.gif);
+    background-size: 100%;
+    height: 50rem;
+
+}
+.menu{
+    width: 89%;
+    padding-top: 10px;
+    background: url(Img/bg_big_menu.gif) no-repeat;
+    background-size: 100%;
+    height: 70px;
+}
+.menu ul{
+    text-align: center;
+    padding-top: 20px;
+}
+.menu li{
+    padding-top: 10px;
+    display: inline;
+}
+.menu a{
+    font-size: 20px;
+    border-style: groove;
+    padding: 0 10px;
+    color: gold;
+    margin: 6rem;    
+    text-decoration: none;
+}
+.meio{
+    margin-right: 5rem;
+    margin-left: 4.7rem;
+    background-image: url(Img/meio.jpg);
+    width: 89%;
+    height: 24.9rem;
+    background-size: 100%;
+}
+.logo{
+    margin-left: 50px;
+    float: left;
+    margin-top: 150px;
+}
+.logo p{
+    color: gold;
+    margin-left: 50px;
+
+}
+.logo a{
+    color: gold;
+    font-size: 30px;
+    float: left;
+    margin-top: 50px;
+    text-decoration: none;
+}
+.meio-fim{
+    background-image: url(img/meio2.jpg);
+    background-repeat: no-repeat y;
+    margin-left: auto;
+    width: 613px;
+    height: 16.5rem;
+    background-size: 100%
+}
+.login{
+    border-style: groove;
+    display: block;
+    background-image: url(Img/cubos.gif);
+    background-repeat: no-repeat;
+    float: left;
+    text-align: center;
+    width: 366px;
+    background-size: 80%;
+    height: 20rem;
+    margin-left: 73px;
+}
+.login h1{
+    text-align: center;
+    margin-left: -40px;
+    padding-top: 38px;
+    font-size: 22px;
+}
+.login table{
+    align-items: center;
+    width: 50%;
+    text-align: center;
+    margin-left: 25px;
+    
+}
+.login td{
+    text-align: center;
+    width: 90px;
+    line-height: 5px;
+}
+.login td input{
+    border-width: 3px;
+}
+
